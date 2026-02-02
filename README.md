@@ -30,7 +30,7 @@
 ## 📂 Featured Project
 🔹 **DevOps Lab**
 Hands-on DevOps practice using Linux (openEuler), Bash scripting, and GitHub.
-👉 https://github.com/YOURUSERNAME/devops-lab
+👉 https://github.com/samaraliuae5-lab/devops-lab)
 
 ---
 
